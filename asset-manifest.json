@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Rick-Game/static/css/main.7a10aa3e.css",
+    "main.js": "/Rick-Game/static/js/main.2a393cc3.js",
+    "static/media/morty.png": "/Rick-Game/static/media/morty.f679ca05647a4c4d3f92.png",
+    "static/media/rickkkk.png": "/Rick-Game/static/media/rickkkk.4106ae5efbcddce9d2fa.png",
+    "static/media/portal.png": "/Rick-Game/static/media/portal.f7a707b1c3d068bb9de0.png",
+    "static/media/jerry.png": "/Rick-Game/static/media/jerry.7240191050cc9b6c18e9.png",
+    "static/media/sum.png": "/Rick-Game/static/media/sum.dec5da5927004a9f986d.png",
+    "static/media/blank.png": "/Rick-Game/static/media/blank.fbcb91799ceba75b2e3a.png",
+    "static/media/beth.png": "/Rick-Game/static/media/beth.ab3d52b148766c88befe.png",
+    "index.html": "/Rick-Game/index.html",
+    "main.7a10aa3e.css.map": "/Rick-Game/static/css/main.7a10aa3e.css.map",
+    "main.2a393cc3.js.map": "/Rick-Game/static/js/main.2a393cc3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a10aa3e.css",
+    "static/js/main.2a393cc3.js"
+  ]
+}
